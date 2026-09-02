@@ -24,4 +24,4 @@ https://www.brandwares.com/bestpractices/2015/06/xml-hacking-custom-colors/ incl
 
 # Future Notes
 
-Replace the XML file here when updating the EAR theme. Document changes. Replicate changes in other code (e.g., R, SAS).
+Now that the XML code is here in GitHub, we can edit it here (or using VS Code and GitHub Desktop - both are available in the FNA software center, helpful video to get started: https://youtu.be/8Dd7KRpKeaE?si=U9mRvX51fwG_CYFp). Document changes in the README file. Replicate changes in other code (e.g., R, SAS).
