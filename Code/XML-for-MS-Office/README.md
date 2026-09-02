@@ -16,7 +16,7 @@ You can create, modify, and save `.thmx` files within Word (Design tab), PowerPo
 
 5) I followed the instructions in the Brandwares link to add a custom color palette (see Design)
 
-6) I saved the XML code, re-zipped, and changed the file extension back from `.zip` to `.thmx`. Note: Zip the contents of FNA_EAR_2026, which has 3 folders (_rls, docProps, theme) and an XML file [Content_Types]. Note: Make sure the updated `.thmx` file is located at the file path in step 1.
+6) I saved the XML code, re-zipped, and changed the file extension back from `.zip` to `.thmx`. Note: Zip the contents of the FNA_EAR_2026 folder which has 3 folders (`_rls`, `docProps`, `theme`) and an XML file `[Content_Types].xml`. Note: Make sure the updated `.thmx` file is located at the file path in step 1.
 
 # Helpful Resources
 
@@ -24,4 +24,4 @@ https://www.brandwares.com/bestpractices/2015/06/xml-hacking-custom-colors/ incl
 
 # Future Notes
 
-Replace the XML file here when updating the EAR theme. Document any changes so future staff can reproduce the theme.
+Replace the XML file here when updating the EAR theme. Document changes. Replicate changes in other code (e.g., R, SAS).
