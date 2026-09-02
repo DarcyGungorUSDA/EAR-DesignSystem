@@ -1,0 +1,1 @@
+This folder is for code that helps EAR with consistent design across MS Office (theme1.xml), R (ggplot-theme.R), and SAS (ods-styles.sas).
