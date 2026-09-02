@@ -1,0 +1,1 @@
+Placeholder: Add notes on palette mapping
