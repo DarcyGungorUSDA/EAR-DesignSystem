@@ -7,7 +7,7 @@ We're using Arial because it's a sans-serif typeface available in both MS Office
 
 ### Why not source sans pro?
 
-In an ideal world, we'd use source sans for a consistent look and feel with the FNA website, which uses source sans pro. Unfortunately, while the whole source sans pro font family is available to FNA within MS Office, it's not available to us in Adobe Acrobat [even though it's an Adobe font](https://fonts.adobe.com/fonts/source-sans) - Adobe Acrobat gives us a few source sans 3 fonts, but not the regular font. 
+In an ideal world, we'd use **source sans** for a consistent look and feel with the FNA website, which uses **source sans pro**. Unfortunately, while the whole source sans pro font family is available to FNA within MS Office, it's not available to us in Adobe Acrobat [even though it's an Adobe font](https://fonts.adobe.com/fonts/source-sans) - Adobe Acrobat gives us a few **source sans 3** fonts, but not the regular font. 
 
 ![The source sans fonts available to FNA through Adobe Acrobat are source sans 3 black, extra bold, extra light, medium, and semi-bold.](/../EAR-DesignSystem/Images/SourceSansAcrobat.png)
 
