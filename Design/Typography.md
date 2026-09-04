@@ -1,4 +1,5 @@
 
+
 # How much do you want to know?
 
 ## The basics
@@ -20,4 +21,4 @@ Also unfortunately, CEC can't provide an FNA-wide solution (... we tried in 2025
 
 So, the best option seems to be to pick a font that's available to FNA in MS Office and Adobe Acrobat without anyone needing to download anything. **Arial** fits the bill, and looks pretty similar to **source sans pro**. 
 
-![Side-by-side comparison of source sans pro and arial using the phrase the quick brown fox jumps over the lazy dog.](/../EAR-DesignSystem/Images/SourceSansArial.png)
+<img width="1296" height="191" alt="Side-by-side comparison of source sans pro and arial using the phrase the quick brown fox jumps over the lazy dog." src="https://github.com/user-attachments/assets/3c6ac859-4c71-49f5-84aa-d381cebad1a6" />
