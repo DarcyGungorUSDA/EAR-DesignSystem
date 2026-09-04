@@ -11,7 +11,9 @@ We're using **Arial** because it's a sans-serif typeface available in both MS Of
 
 In an ideal world, we'd use **source sans** for a consistent look and feel with the FNA website, which uses **source sans pro**. Unfortunately, [even though **source sans** an Adobe font](https://fonts.adobe.com/fonts/source-sans), we don't have access to source sans regular in Adobe Acrobat:
 
-<kbd><img width="214" height="203" alt="The source sans fonts available to FNA through Adobe Acrobat are source sans 3 black, extra bold, extra light, medium, and semi-bold." src="https://github.com/user-attachments/assets/3721844a-62fb-4762-9642-c4b0583ba7ea" /></kbd>
+<p align="center">
+  <kbd><img width="214" height="203" alt="The source sans fonts available to FNA through Adobe Acrobat are source sans 3 black, extra bold, extra light, medium, and semi-bold." src="https://github.com/user-attachments/assets/3721844a-62fb-4762-9642-c4b0583ba7ea" /></kbd>
+</p>
 
 This puts us in a tight spot if we write a Word document in source sans pro, convert to pdf, and realize we need to edit a few words. It would be great to open the Acrobat text editor and just do it there - but the edited words will appear in a different font. It's a hassle to go back to the Word doc and re-convert to pdf for small edits every time.
 
